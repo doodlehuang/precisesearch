@@ -1,6 +1,6 @@
 # precisesearch
-[English](./tree/master/en-gb)
+[English](https://github.com/Doodlehimi/precisesearch/tree/master/en-gb)
 
-[简体中文](./tree/master/zh-hans)
+[简体中文](https://github.com/Doodlehimi/precisesearch/tree/master/zh-hans)
 
-[繁體中文](./tree/master/zh-hant)
+[繁體中文](https://github.com/Doodlehimi/precisesearch/blob/master/tree/master/zh-hant)
