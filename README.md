@@ -3,4 +3,4 @@
 
 [简体中文](https://github.com/Doodlehimi/precisesearch/tree/master/zh-hans)
 
-[繁體中文](https://github.com/Doodlehimi/precisesearch/blob/master/tree/master/zh-hant)
+[繁體中文](https://github.com/Doodlehimi/precisesearch/tree/master/zh-hant)
